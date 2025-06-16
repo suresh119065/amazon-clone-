@@ -1,5 +1,5 @@
 {
-  "name": "amazonclone-backend",
+  "name": "amazon-clone-backend",
   "version": "1.0.0",
   "description": "Backend for Amazon Clone using Express and MongoDB",
   "main": "server.js",
